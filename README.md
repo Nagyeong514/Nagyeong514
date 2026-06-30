@@ -1,7 +1,8 @@
 ## Hi there 👋
 ###  Backend & DB
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask,nodejs,mysql&theme=light)](https://skillicons.dev)
+
 
 ###  Frontend 
 
